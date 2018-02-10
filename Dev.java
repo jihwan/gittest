@@ -8,7 +8,7 @@ class Dev {
     // a
     // b
   }
-
+  
   public void master() {}
   public void master2() {}
   public void server() {}
