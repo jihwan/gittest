@@ -10,4 +10,5 @@ class Dev {
   }
 
   public void master() {}
+  public void master2() {}
 }
