@@ -8,4 +8,6 @@ class Dev {
     // a
     // b
   }
+
+  public void master() {}
 }
