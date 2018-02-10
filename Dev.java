@@ -14,4 +14,5 @@ class Dev {
   public void server() {}
   public void server2() {}
   public void client1() {}
+  public void client2() {}
 }
