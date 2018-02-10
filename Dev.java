@@ -12,7 +12,7 @@ class Dev {
   public void master() {}
   public void master2() {}
   public void server() {}
-  public void server2() {}
   public void client1() {}
   public void client2() {}
+  public void server2() {}
 }
