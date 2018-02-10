@@ -17,4 +17,7 @@ class Dev {
   public void server2() {}
   public void server3() {}
   public void server4() {}
+
+
+  public void feature() {}
 }
